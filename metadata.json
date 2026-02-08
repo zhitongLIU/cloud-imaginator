@@ -1,0 +1,8 @@
+{
+  "name": "Cloud Imaginator",
+  "description": "Turn your cloud photos into whimsical art. Upload a picture of a cloud, let AI interpret its shape, and see it transform with a transparency slider.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
